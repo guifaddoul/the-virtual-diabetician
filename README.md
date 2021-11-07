@@ -1,5 +1,6 @@
 # the-virtual-diabetician
 This is the code related to the application I created for my doctoral thesis : The Virtual Diabetician
+It was created using Unity 5.6.3
 
 The complete name of my thesis is : The Virtual Diabetician: A Virtual Platform Providing Diabetes Treatment Information Through Storytelling and Virtual Companions
 It can be found at the following link: https://www.proquest.com/openview/6b73f74fdd97109ee35723b289ea2b96/1?pq-origsite=gscholar&cbl=18750
